@@ -38,7 +38,4 @@ function akanNames(){
     
     formRefresh();
 
-
-
-    
 }
