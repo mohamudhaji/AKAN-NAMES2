@@ -1,0 +1,31 @@
+body {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 30px ;
+    display: inline-block;
+    border: 1px solid burlywood;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    
+  }
+
+h1 {
+	text-align: center;
+    box-sizing: border-box;
+    background-position: 20%;
+    color: purple;
+    display: block;
+
+}
+.row2 {
+   margin: 8px 0px ;
+
+}
+p {
+    color: grey;
+    text-align: center;
+    background-position: center;
+
+
+}
